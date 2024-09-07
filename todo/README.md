@@ -12,3 +12,4 @@ Fonctionnalités principales:
    git clone https://github.com/aureando/design_ui_au.git
 
 ### Screenshots :
+![Screenshots](home.jpg "Screenshots of this project")
