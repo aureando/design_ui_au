@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 	
 	private LinearLayout header;
 	private LinearLayout body;
-	private TextView textview1;
+	private TextView title_head;
 	private RecyclerView recyclerview1;
 	
 	@Override
