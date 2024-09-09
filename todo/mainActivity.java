@@ -1,4 +1,4 @@
-package your packageName;
+package your packageName_here;
 
 import android.animation.*;
 import android.app.*;
