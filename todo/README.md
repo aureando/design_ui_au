@@ -1,7 +1,7 @@
 ## Design UI TO-DO List
 Description concise:
 Application Android simple pour gérer ses tâches quotidiennes. Seulement le design pas de fonctionnalités comme ajout, suppression,...
-Fonctionnalités principales:
+
 ### Technologies utilisées:
  * Langage: Java
  * Outils: Android Studio, XML
