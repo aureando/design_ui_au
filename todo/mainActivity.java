@@ -1,4 +1,4 @@
-package com.my.newproject2;
+package your packageName;
 
 import android.animation.*;
 import android.app.*;
