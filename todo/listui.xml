@@ -71,7 +71,7 @@
 				android:focusable="false"
 				android:layout_width="24dp"
 				android:layout_height="24dp"
-				android:src="@drawable/your_image_trash_"
+				android:src="@drawable/your_image_trash_here"
 				android:scaleType="fitCenter" />
 		</LinearLayout>
 	</LinearLayout>
