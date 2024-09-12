@@ -13,4 +13,4 @@ Application Android simple pour gérer ses tâches quotidiennes. Seulement le de
 
 ### Screenshots :
 ### Home 
-![Screenshots](home.jpg "Screenshots of this project")
+![Screenshots](home.jpg "Screenshots of this project"){: style="width:120px;height:420px;"}
